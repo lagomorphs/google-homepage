@@ -1,0 +1,25 @@
+body{
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  font-color: black;
+}
+#tnbtextleft a{
+  text-decoration: none;
+  word-spacing: 5em;
+  color: black;
+}
+#tnbtextright a{
+  text-decoration: none;
+  text-align: right;
+  color: black;
+}
+#bnbleft a{
+  text-decoration: none;
+  text-align: left;
+  color: black;
+}
+#bnbright a{
+  text-decoration: none;
+  text-align: right;
+  color: black;
+}
